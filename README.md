@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange.svg)](https://xgboost.readthedocs.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache-green.svg)](LICENSE)
 
 AI-powered prediction system for Pakistan T20I cricket matches using machine learning. Combines Pakistan Super League (PSL) player statistics with international T20I data to predict match scores and win probabilities.
 
@@ -245,4 +245,5 @@ Project Link: [https://github.com/yourusername/pakistan-t20i-ai-predictor](https
 ---
 
 **⭐ Star this repository if you found it helpful!**
+
 
