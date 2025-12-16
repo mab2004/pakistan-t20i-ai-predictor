@@ -7,7 +7,7 @@
 
 AI-powered prediction system for Pakistan T20I cricket matches using machine learning. Combines Pakistan Super League (PSL) player statistics with international T20I data to predict match scores and win probabilities.
 
-![Streamlit App Demo](assets/app-screenshot.png)
+![Streamlit App Demo](app-screenshot.png)
 
 ## ✨ Features
 
@@ -245,3 +245,4 @@ Project Link: [https://github.com/yourusername/pakistan-t20i-ai-predictor](https
 ---
 
 **⭐ Star this repository if you found it helpful!**
+
