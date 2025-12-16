@@ -202,16 +202,6 @@ Approximately 60% of matches have full PSL coverage for Pakistan's XI.
 - 358 Pakistan matches with complete data
 - 23 unique opponents
 
-## 🤝 Contributing
-
-Contributions welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 Citation
 
 If you use this project in your research, please cite:
@@ -227,23 +217,9 @@ If you use this project in your research, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Pakistan Super League for providing detailed cricket data
-- XGBoost team for the powerful gradient boosting library
-- Streamlit team for the amazing web framework
-- SHAP library for model interpretability
-
-## 📧 Contact
-
-Muhammad Ali Bukhari - [@yourhandle](https://twitter.com/yourhandle)
-
-Project Link: [https://github.com/yourusername/pakistan-t20i-ai-predictor](https://github.com/yourusername/pakistan-t20i-ai-predictor)
-
----
+This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
 
 **⭐ Star this repository if you found it helpful!**
+
 
 
